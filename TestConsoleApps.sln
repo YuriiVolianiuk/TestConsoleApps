@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TServer", "TServer\TServer.csproj", "{5D739856-5C49-5386-79C7-BFE640441131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientConsole", "TClient\ClientConsole.csproj", "{07789A36-DCFE-F25A-D6A2-666B2685F482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D739856-5C49-5386-79C7-BFE640441131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D739856-5C49-5386-79C7-BFE640441131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D739856-5C49-5386-79C7-BFE640441131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D739856-5C49-5386-79C7-BFE640441131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07789A36-DCFE-F25A-D6A2-666B2685F482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07789A36-DCFE-F25A-D6A2-666B2685F482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07789A36-DCFE-F25A-D6A2-666B2685F482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07789A36-DCFE-F25A-D6A2-666B2685F482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90A6718-009C-42BA-8D5A-E0AD07968001}
+	EndGlobalSection
+EndGlobal
